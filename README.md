@@ -1,6 +1,6 @@
-![WhatApp Banner](https://github.com/user-attachments/assets/97aeb11c-f451-4dcc-bfdd-a02c20464303)
+## What App - Mini V0
 
-## What App
+![WhatApp Banner](https://github.com/user-attachments/assets/97aeb11c-f451-4dcc-bfdd-a02c20464303)
 
 https://github.com/user-attachments/assets/40b3d5cb-c277-48aa-bc7d-049540fce43c
 
